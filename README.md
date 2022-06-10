@@ -1,6 +1,6 @@
 ![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w3-pandas-project/blob/main/images/portada.jpg)
 
-# W3 Project - Data cleaning & wrangling
+# W2-Sharks-Clean-Project
 
 The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set Shark Attack. You will need to download it, import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file. Some graphs to better understand the data will surely be useful!!
 
